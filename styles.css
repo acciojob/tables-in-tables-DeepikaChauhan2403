@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+th, td{
+border: 2px solid black;
+}
+
+.table0{
+	border:solid 2px black;
+}
+.table1{
+	width: 100%; 
+	border:solid 2px black;
+}
+
+.table2{
+	width: 100%;
+	border:solid 2px"
+}
+
+td{
+	 text-align: center;
+}
